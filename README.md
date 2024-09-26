@@ -1,4 +1,4 @@
-# Books manager
+# Books manager API
 
 ## The project
 
